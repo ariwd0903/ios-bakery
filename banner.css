@@ -1,0 +1,39 @@
+.fixed-top{
+        display: flex;
+        background-color: #F6E7D8;
+        text-decoration: none;
+        justify-content: flex-end;
+        justify-self: end;
+              
+}
+.navbar{
+    background-color: #fffcf1;
+}
+
+.navbar-toggler-icon{
+    background-color: #F6E7D8;
+}
+
+.lista{
+    display: flex;
+    align-self: flex-end;
+    padding: 0 10px;
+}
+.container{
+    display: flex;
+    padding: 0 20px;
+    list-style-type: none;
+}
+
+li a{
+    padding: 10px;
+    color: white;
+    font-size: 18px;
+    margin-top: 20px;
+}
+.navbar-brand{
+    display: flex;
+    justify-self: right;
+    margin-right: 88%;
+    font-family:cursive;
+}
